@@ -2,9 +2,9 @@ The loop Event
 ===================
 ----------
 
-##Que es el evento loop
+##¿Qué es el evento loop?
 -------------
-###Programacíon Sincrona vs Asincrona
+###Programacíon Síncrona vs Asíncrona
 Quizas como el presentador expone, no es facil,  al encontrarnos con este tipo de programacion por primera vez, ver los beneficios de la asincronia en un servidor  y mas dificil es aun entender el funcionamiento interno que esta representa.
 
 Comenzando con un aspecto importante, se nos  muestra la gran ventaja que representa la asincronia, "**mantener un flujo natural en el navegador**". No permitir bloqueos inecesarios  de codigo (eventos lentos) y peor aun, acumulativos, en lugar de actuar de manera asincrona pero en muchos casos mas rapida. 
